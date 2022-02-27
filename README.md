@@ -1,5 +1,5 @@
-"This project build a basic recipe website.
+This project build a basic recipe website.
 
-The website consist of a main index page which  have links to a few recipes."
+The website consist of a main index page which  have links to a few recipes.
 
 
